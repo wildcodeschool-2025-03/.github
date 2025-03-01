@@ -1,6 +1,6 @@
-# Wild Code School - Promotion 09-2024
+# Wild Code School - Promotion 03-2025
 
-Bienvenue dans l'organisation de la **Wild Code School 09-2024** sur GitHub.
+Bienvenue dans l'organisation de la **Wild Code School 03-2025** sur GitHub.
 
 Notre mission est de former les développeurs du futur avec un apprentissage par projets, axé sur les compétences recherchées par les entreprises.
 
